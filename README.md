@@ -52,6 +52,10 @@ In statistics, we focus on four areas. (Summarized from the videos above.)
 3. outliers
 4. Statistical assumptions
 
+### Data sets
+
+This assignment is based on an example in Andy Field's text Discoverint Statistics Using IBM SPSS Statistics 5th Edition. [Amazon link](https://www.amazon.com/Discovering-Statistics-Using-IBM-SPSS/dp/1526419521/ref=sr_1_4?dchild=1&keywords=discovering+statistics&qid=1602801958&sr=8-4) Sage makes the datasets used in that text available at https://edge.sagepub.com/field5e/student-resources/datasets . A zip file with the datasets can be downloaded at http://study.sagepub.com/sites/default/files/spss_files_0.zip .
+
 ### Chi-Square Tests
 
 Chi-square tests are used with categorical data. This assignment illustrates steps to perform the Chi-square Goodness of Fit (1 categorical variable) and the Chi-square Test of Independence also known as the Chi-square Test of Association (2 categorical variables). Chi-square tests belong to a family of tests known as nonparametric tests. Nonparametric tests have fewer distributional assumptions than other statistical tests.
