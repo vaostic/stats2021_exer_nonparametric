@@ -29,6 +29,10 @@
 
 ## Follow along with this tutorial
 
+### Data sets
+
+This assignment is based on an example in Andy Field's text Discoverint Statistics Using IBM SPSS Statistics 5th Edition. [Amazon link](https://www.amazon.com/Discovering-Statistics-Using-IBM-SPSS/dp/1526419521/ref=sr_1_4?dchild=1&keywords=discovering+statistics&qid=1602801958&sr=8-4) Sage makes the datasets used in that text available at https://edge.sagepub.com/field5e/student-resources/datasets . A zip file with the datasets can be downloaded at http://study.sagepub.com/sites/default/files/spss_files_0.zip .
+
 ### Data Cleaning and Exploration
 
 Data needs to be examined and any problems fixed before analysis can be done. This process of checking data before proceeding with a statistical analysis is often called data cleaning. The steps for data cleaning outlined in this tutorial are discussed in the following videos. You don't need to watch the videos to complete this assignment, but I list them here should you have interest in listening to the original lectures.
@@ -51,10 +55,6 @@ In statistics, we focus on four areas. (Summarized from the videos above.)
 2. Missing data
 3. outliers
 4. Statistical assumptions
-
-### Data sets
-
-This assignment is based on an example in Andy Field's text Discoverint Statistics Using IBM SPSS Statistics 5th Edition. [Amazon link](https://www.amazon.com/Discovering-Statistics-Using-IBM-SPSS/dp/1526419521/ref=sr_1_4?dchild=1&keywords=discovering+statistics&qid=1602801958&sr=8-4) Sage makes the datasets used in that text available at https://edge.sagepub.com/field5e/student-resources/datasets . A zip file with the datasets can be downloaded at http://study.sagepub.com/sites/default/files/spss_files_0.zip .
 
 ### Chi-Square Tests
 
