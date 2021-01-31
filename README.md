@@ -1,4 +1,4 @@
-# Chi-Square Tests Tutorial
+# Chi-Square Tests Exercise
 
 ## Summary of steps to complete
 
